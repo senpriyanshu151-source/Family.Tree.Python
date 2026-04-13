@@ -1,0 +1,5 @@
+ADD_CHILD QueenMargaret Bill Male
+ADD_CHILD QueenMargaret Charlie Male
+ADD_CHILD QueenMargaret Diana Female
+GET_RELATIONSHIP Bill Siblings
+GET_RELATIONSHIP Diana Maternal-Aunt
